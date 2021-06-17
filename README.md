@@ -1,4 +1,6 @@
  Hi there 👋
+ 
+ I'm Anchal Jha
 
 - 🌱 I’m currently learning React and some other concepts.
 - 👯 I’m looking to collaborate with senior developers, so that I can improve.
