@@ -1,6 +1,6 @@
-  Hi there 👋,
+  <h2>Hi there 👋,<h2>
  
- I'm Anchal Jha.
+<h4> I'm Anchal Jha. <h4>
 
 - 🌱 I’m currently learning React and some other concepts.
 - 👯 I’m looking to collaborate with senior developers, so that I can improve.
