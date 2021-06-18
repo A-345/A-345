@@ -11,15 +11,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=A-345&&show_icon=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">-->
 <h1 align="center">Hi 👋, I'm Anchal Jha</h1>
-<h3 align="center">A Enthusiastic web developer from India</h3>
+<h3 align="center">An Enthusiastic web developer from India</h3>
 
 - 🌱 I’m currently learning **React and some other concepts**
 
-- 👯 I’m looking to collaborate with **senior developer**
+- 👯 I’m looking to collaborate with **senior developers**
 
-- 📫 How to reach me: **anchaljha604@gmail.com**
+- 📫 How to reach me : **anchaljha604@gmail.com**
 
-- ⚡ Fun fact: **Singing, Travelling and knowing about Life hacks.**
+- ⚡ Fun fact : **Singing, travelling and knowing about life hacks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
