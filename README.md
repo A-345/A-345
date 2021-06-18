@@ -17,9 +17,9 @@
 
 - 👯 I’m looking to collaborate with **senior developer**
 
-- 📫 How to reach me **anchaljha604@gmail.com**
+- 📫 How to reach me: **anchaljha604@gmail.com**
 
-- ⚡ Fun fact **Singing, Travelling and knowing about Life hacks.**
+- ⚡ Fun fact: **Singing, Travelling and knowing about Life hacks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
